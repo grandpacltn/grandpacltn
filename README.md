@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Mathew Ogoh Odinaka — @cybergrandpaa
 
-> **AI Security Engineer** | MSc Cybersecurity | Building at the intersection of ML and offensive security
+> **AI Security Engineer and Cybersecurity Specialist** | MSc Cybersecurity | Building at the intersection of ML and offensive security
 
 ---
 
 ## 🛡️ About Me
 
-I'm a cybersecurity professional and AI engineer based in London, UK. Currently completing my MSc Cybersecurity at Northumbria University London, with a focus on AI security research — specifically how machine learning can be used to defend AI systems against adversarial attacks.
+I'm a cybersecurity professional and AI engineer based in London, UK. Currently completing my MSc Cybersecurity at Northumbria University London, with a focus on AI security research specifically how machine learning can be used to defend AI systems against adversarial attacks.
 
 My work sits at the intersection of **offensive security** and **AI engineering** — I build tools that both understand attack vectors and defend against them.
 
@@ -86,7 +86,7 @@ My work sits at the intersection of **offensive security** and **AI engineering*
 
 ## 📬 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mathew-ogoh-odinaka)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mathew-ogoh-8bb7bb395)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@cybergrandpaa)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@cybergrandpaa)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:matthewogoh1@hotmail.com)
